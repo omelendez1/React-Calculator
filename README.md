@@ -15,6 +15,7 @@ A simple yet effective calculator built with React. It allows users to perform b
 - ⚠️ Basic input validation with friendly error messages
 - 🕰️ Calculation history display
 ![Calculator Screenshot](https://raw.githubusercontent.com/omelendez1/React-Calculator/main/src/assets/simple_calculator_ex.png)
+
 ---
 
 ## 🚀 
@@ -24,6 +25,5 @@ npm install
 npm start
 
 ```# React-Calculator
-![alt text](src\assets\simple_calculator_ex.png)
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/simple_calculator_ex.png)
-![Screenshot](./images/simple_calculator_ex.png)
+first use of:
+![Calculator Screenshot](https://raw.githubusercontent.com/your-username/your-repo-name/main/src/assets/simple_calculator_ex.png)
