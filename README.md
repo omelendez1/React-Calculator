@@ -26,3 +26,4 @@ npm start
 ```# React-Calculator
 ![alt text](src\assets\simple_calculator_ex.png)
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/simple_calculator_ex.png)
+![Screenshot](./images/simple_calculator_ex.png)
