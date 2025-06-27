@@ -14,8 +14,7 @@ A simple yet effective calculator built with React. It allows users to perform b
 - 🧼 Clear button to reset all fields and results
 - ⚠️ Basic input validation with friendly error messages
 - 🕰️ Calculation history display
-![Screenshot](src\assets\simple_calculator_ex.png)
-![Calculator Screenshot](https://raw.githubusercontent.com/your-username/your-repo-name/main/src/assets/simple_calculator_ex.png)
+![Screenshot](https://github.githubassets.com/images/modules/logos_page/simple_calculator_ex.png)
 ---
 
 ## 🚀 
