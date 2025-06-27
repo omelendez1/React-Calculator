@@ -17,8 +17,11 @@ A simple yet effective calculator built with React. It allows users to perform b
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the Repository
+## 🚀 
+git clone https://github.com/omelendez1/React-Calculator.git
+cd react-calculator
+npm install
+npm start
 
 ```# React-Calculator
+![alt text](src\assets\simple_calculator_ex.png)
